@@ -1,0 +1,8 @@
+intrunner
+
+run a command multiple times, substituting an incrementing integer each
+time. Useful for example when you're processing footage in frame-by-frame
+files (as opposed to compressed video files).
+
+Author: Steve Molin
+License: GPLv2
